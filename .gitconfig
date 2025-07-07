@@ -1,0 +1,24 @@
+[user]
+	name = Eric R
+	email = 31020921+zale00@users.noreply.github.com
+	name = zale00
+	email = earoberts00@gmail.com
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[github]
+	# token = your_github_token_here
+[credential]
+	helper = 
+[init]
+	defaultBranch = main
+[credential "https://github.com"]
+	helper = 
+	helper = !/Users/alpha/.local/bin/gh auth git-credential
+[credential "https://gist.github.com"]
+	helper = 
+	helper = !/Users/alpha/.local/bin/gh auth git-credential
+[pull]
+	rebase = true

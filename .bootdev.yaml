@@ -1,0 +1,9 @@
+access_token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VyVVVJRCI6ImYwZTEzMzRmLTQxZDAtNDM0Zi04MTg5LTZkYTgzN2RhZDQyYiIsImlzcyI6ImJvb3QuZGV2IiwiZXhwIjoxNzUxNTk0ODU2LCJpYXQiOjE3NTE1OTEyNTZ9.KRVDxpC5BDsXxxzP9JQvVmxqp_TpJ_w8GMV8PDUCqeo
+api_url: https://api.boot.dev
+color:
+    gray: "8"
+    green: "2"
+    red: "1"
+frontend_url: https://boot.dev
+last_refresh: 1751591256
+refresh_token: hIdJ4yZ1pwGS5bcVCbNnvP41YpBk2T92

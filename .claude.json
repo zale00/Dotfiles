@@ -1,0 +1,458 @@
+{
+  "numStartups": 22,
+  "installMethod": "unknown",
+  "autoUpdates": true,
+  "customApiKeyResponses": {
+    "approved": [],
+    "rejected": [
+      "ur_anthropic_api_key"
+    ]
+  },
+  "tipsHistory": {
+    "new-user-warmup": 1,
+    "shift-enter": 5,
+    "memory-command": 6,
+    "theme-command": 7,
+    "prompt-queue": 20,
+    "enter-to-steer-in-relatime": 9,
+    "terminal-setup": 10,
+    "todo-list": 11,
+    "# for memory": 12,
+    "install-github-app": 13,
+    "permissions": 14,
+    "drag-and-drop-images": 15,
+    "double-esc": 16,
+    "continue": 17,
+    "custom-commands": 18,
+    "shift-tab": 19
+  },
+  "promptQueueUseCount": 1,
+  "userID": "202889a437875184065909750485bab85756bd5694e53bc966314df372b88575",
+  "firstStartTime": "2025-07-06T00:47:48.089Z",
+  "projects": {
+    "/Users/alpha": {
+      "allowedTools": [],
+      "history": [
+        {
+          "display": "/mcp ",
+          "pastedContents": {}
+        },
+        {
+          "display": "Verify that the exa and github mcp servers are working",
+          "pastedContents": {}
+        },
+        {
+          "display": "does my claude code read the env variables from my .zshenv  are they being loaded?",
+          "pastedContents": {}
+        },
+        {
+          "display": "run test to verify the github mcp works",
+          "pastedContents": {}
+        },
+        {
+          "display": "run tests to verify the github and exa api mcp servers work",
+          "pastedContents": {}
+        },
+        {
+          "display": "create a .zshenv file, populate it wiwhat would help",
+          "pastedContents": {}
+        },
+        {
+          "display": "Ok something is strange, whenever I use the PAT from a environment variable I have mapped in my .zshrc file, it doesn't work.  But when I copy/paste the token directly in my .claude.json it does work.  Whats the issue.",
+          "pastedContents": {}
+        },
+        {
+          "display": "confirm that the github mcp server is working with different tests",
+          "pastedContents": {}
+        },
+        {
+          "display": "is GITHUB_PERSONAL_ACCESS_TOKEN the correct name for what the github MCP should receive?",
+          "pastedContents": {}
+        },
+        {
+          "display": "wait undo that, and change my variable name in my shell to GITHUB_PERSONAL_ACCESS_TOKEN",
+          "pastedContents": {}
+        },
+        {
+          "display": "its not called GITHUB_PERSONAL_ACCESS_TOKEN in my shell, its called GITHUB_TOKEN, verify and fix if thats the issue",
+          "pastedContents": {}
+        },
+        {
+          "display": "Is there a variable being sent from my shell to my mcp settings?  The variable being my token for github?",
+          "pastedContents": {}
+        },
+        {
+          "display": "should I use the classic token or the fine grain token?",
+          "pastedContents": {}
+        },
+        {
+          "display": "run a test to verify the githun MCP is working.  Run multiple tests of different types",
+          "pastedContents": {}
+        },
+        {
+          "display": "/clear ",
+          "pastedContents": {}
+        },
+        {
+          "display": "run a test to verify the github mcp server works",
+          "pastedContents": {}
+        },
+        {
+          "display": "run a test to verify that the exa and github mcp servers are working",
+          "pastedContents": {}
+        },
+        {
+          "display": "run a test to verify that the github and exa api mcp servers work",
+          "pastedContents": {}
+        },
+        {
+          "display": "I am not using claude desktop, I am doing this for claude code",
+          "pastedContents": {}
+        },
+        {
+          "display": "why are they not working I copy/pasted the tokens from github and the exa website into the .zshrc file",
+          "pastedContents": {}
+        },
+        {
+          "display": "run a test to verify the github and exa mcp servers are working",
+          "pastedContents": {}
+        },
+        {
+          "display": "Confirm that the variable in my .claude.json is reading a API key from my .zshrc file",
+          "pastedContents": {}
+        },
+        {
+          "display": "run a test and verify the github and exa MCP servers are working",
+          "pastedContents": {}
+        },
+        {
+          "display": "test that the exa api and github MCP servers are working.  I want to make sure my PAT are configured",
+          "pastedContents": {}
+        },
+        {
+          "display": "show me what environment file is being referenced",
+          "pastedContents": {}
+        },
+        {
+          "display": "ok I made changes, run the tests again",
+          "pastedContents": {}
+        },
+        {
+          "display": "what formatshould the env variables be in?  Should the token be in quotation marks?",
+          "pastedContents": {}
+        },
+        {
+          "display": "execute tests on those two mcp servers to verify use",
+          "pastedContents": {}
+        },
+        {
+          "display": "Validate that the env variables for my exa api key and github doken are working correctly for mcp use",
+          "pastedContents": {}
+        },
+        {
+          "display": "run a test and validate that my github token and exa api token are working",
+          "pastedContents": {}
+        },
+        {
+          "display": "where is my environment variable file?",
+          "pastedContents": {}
+        },
+        {
+          "display": "add this PAT for github in my .claude.json [REDACTED]",
+          "pastedContents": {}
+        },
+        {
+          "display": "undo last changes, I was moreso referring to a lot of lines in there about what I type in claude code.  Is that normal?",
+          "pastedContents": {}
+        },
+        {
+          "display": "check my .claude.json I think it has erroneus information in it",
+          "pastedContents": {}
+        },
+        {
+          "display": "make sure the claude.md is in the Claude folder",
+          "pastedContents": {}
+        },
+        {
+          "display": "remove the following mcp servers from .claude.json and guidance in the claude.md\n\nFigma, Fetch, filesystem, postgres ",
+          "pastedContents": {}
+        },
+        {
+          "display": "/mcp ",
+          "pastedContents": {}
+        },
+        {
+          "display": "continue where you left off",
+          "pastedContents": {}
+        },
+        {
+          "display": "/upgrade ",
+          "pastedContents": {}
+        },
+        {
+          "display": "Append my CLAUDE.md and claude.json with guidance and additions of the following MCPs:  Playwright, fetch, file system, sequential thinking, brave-search, figma, software planning --dangerously-skip-permissions",
+          "pastedContents": {}
+        },
+        {
+          "display": "Now lets validate what you just did.  Break each MCP into a task and generate 5 agents, 1 to read and discern the intent of the md, 2 to search for the source documentation of that mcp, 3 to read and validate that documentation matches the guidance in the md (does it make sense?), 5 to write updates to the md.\n\nSpawn more agents if needed, kill the agents when complete with each one in each task --dangerously-skip-permissions",
+          "pastedContents": {}
+        },
+        {
+          "display": "-yolo",
+          "pastedContents": {}
+        },
+        {
+          "display": "Now lets validate what you just did.  Break each MCP into a task and generate 5 agents, 1 to read and discern the intent of the md, 2 to search for the source documentation of that mcp, 3 to read and validate that documentation matches the guidance in the md (does it make sense?), 5 to write updates to the md.\n\nSpawn more agents if needed",
+          "pastedContents": {}
+        },
+        {
+          "display": "now add the following guidane to my global CLAUDE.md file.  Remove FETCH from this.  Additionally validate that the guidance makes sense based off the source documentation for each mcp server.\n\n[Pasted text #1 +530 lines]",
+          "pastedContents": {
+            "1": {
+              "id": 1,
+              "type": "text",
+              "content": "# Claude Code MCP Server Guide\n\n## Overview\nThis project uses multiple MCP (Model Context Protocol) servers to enhance Claude's capabilities. Think of MCP servers as specialized tools that give Claude superpowers - like giving a carpenter access to different power tools instead of just a hammer.\n\n## Package Manager: Bun\n**Always use Bun instead of npm/yarn:**\n- `bun install` instead of `npm install`\n- `bunx` instead of `npx`\n- `bun run` instead of `npm run`\n- `bun test` instead of `npm test`\n\n## MCP Servers Configuration\n\n### Core Development Servers\n\n#### 1. Filesystem\n**Purpose:** Direct read/write access to your project files  \n**When to use:**\n- Reading/writing code files across your monorepo\n- Bulk file operations (renaming, moving)\n- Analyzing project structure\n- Searching across multiple directories\n\n**Configured paths:**\n- `./frontend/src` - Frontend source code\n- `./backend/src` - Backend source code  \n- `./shared/types` - Shared TypeScript types\n\n**Analogy:** Like having a super-powered file explorer that can instantly read, write, and analyze any file in your project - imagine having X-ray vision for your codebase.\n\n**Example usage:**\n```bash\n# Search for all uses of a specific type\nfilesystem search \"UserAuthToken\" --in \"./shared/types\"\n\n# Bulk rename across modules\nfilesystem rename \"OldComponentName\" \"NewComponentName\" --recursive\n\n# Analyze imports\nfilesystem analyze-imports \"./frontend/src/components\"\n```\n\n#### 2. GitHub\n**Purpose:** Repository management and Git operations  \n**When to use:**\n- Creating pull requests\n- Managing issues\n- Reviewing code changes\n- Automating Git workflows\n\n**Setup required:**\n```bash\n# Set your GitHub token\nexport GITHUB_TOKEN=\"ghp_your_personal_access_token\"\n```\n\n**Example workflow:**\n```typescript\n// Create a feature branch and PR\ngithub create-branch \"feature/add-auth\"\ngithub commit \"Add JWT authentication\"\ngithub create-pr --title \"Add authentication system\" --base main\n```\n\n#### 3. PostgreSQL\n**Purpose:** Direct database operations and queries  \n**When to use:**\n- Running complex queries\n- Database migrations\n- Performance analysis\n- Data exploration\n\n**Setup required:**\n```bash\n# Set your database URL\nexport DATABASE_URL=\"postgresql://user:password@localhost:5432/mydb\"\n```\n\n**Best practices:**\n- Always use transactions for multiple operations\n- Test queries in development first\n- Use TypeScript types generated from your schema\n\n**Example:**\n```sql\n-- Analyze query performance\npostgres explain \"SELECT * FROM users WHERE created_at > NOW() - INTERVAL '7 days'\"\n\n-- Safe migration with transaction\npostgres transaction\n  \"ALTER TABLE users ADD COLUMN last_login TIMESTAMP\",\n  \"UPDATE users SET last_login = NOW() WHERE active = true\"\n```\n\n#### 4. Puppeteer\n**Purpose:** Browser automation and E2E testing  \n**When to use:**\n- End-to-end testing\n- Generating screenshots\n- Web scraping (ethically)\n- Testing responsive designs\n\n**Analogy:** Like having a robot that can use your web app exactly like a human would - clicking buttons, filling forms, and checking if everything works.\n\n**Example usage:**\n```typescript\n// Test user flow\npuppeteer test-flow \"User Registration\" {\n  navigate: \"http://localhost:3000/signup\",\n  fill: { \"#email\": \"test@example.com\", \"#password\": \"secure123\" },\n  click: \"#submit-button\",\n  waitFor: \".success-message\",\n  screenshot: \"registration-success.png\"\n}\n```\n\n#### 5. Fetch\n**Purpose:** HTTP requests and API testing  \n**When to use:**\n- Testing API endpoints\n- Integrating with external services\n- Monitoring API health\n- Benchmarking performance\n\n**Example:**\n```typescript\n// Test your API with TypeScript types\nfetch post \"https://api.myapp.com/auth/login\" {\n  body: { email: \"user@example.com\", password: \"secure123\" },\n  headers: { \"Content-Type\": \"application/json\" },\n  validateResponse: \"LoginResponse\" // Uses your TypeScript types\n}\n```\n\n### Advanced Context Servers\n\n#### 6. Context7\n**Purpose:** Enhanced context management and conversation memory  \n**When to use:**\n- Managing long-running conversations\n- Maintaining context across multiple files\n- Retrieving previous conversation context\n\n**Example usage:**\n```bash\n# Initialize context for a new project\ncontext7 init --project \"my-typescript-app\"\n\n# Save current context\ncontext7 save --tag \"authentication-implementation\"\n\n# Retrieve context\ncontext7 load --tag \"authentication-implementation\"\n```\n\n### 2. Task Master\n**Purpose:** Project and task management with hierarchy  \n**When to use:**\n- Breaking down complex projects into tasks\n- Tracking progress on multi-step implementations\n- Managing dependencies between tasks\n\n**Analogy:** Like a GPS for your project - it shows you the whole map (zoomed out view) and lets you zoom into specific streets (detailed tasks).\n\n**Example workflow:**\n```bash\n# Create project overview\ntask-master create-project \"E-commerce Platform\"\n\n# Add high-level tasks\ntask-master add-task \"Setup authentication\" --priority high\ntask-master add-task \"Build product catalog\" --priority medium\n\n# Zoom into specific task\ntask-master focus \"Setup authentication\"\ntask-master add-subtask \"Implement JWT tokens\"\ntask-master add-subtask \"Create login UI\"\n```\n\n### 3. Exa MCP Server\n**Purpose:** Advanced search and information retrieval  \n**When to use:**\n- Finding latest industry standards and best practices\n- Researching cutting-edge technologies\n- Discovering modern alternatives to outdated practices\n\n**Setup required:**\n```bash\n# Set your Exa API key\nexport EXA_API_KEY=\"your-api-key-here\"\n```\n\n**Use cases:**\n- \"What's the current best practice for TypeScript error handling in 2024?\"\n- \"Find modern alternatives to Redux for state management\"\n- \"Latest security standards for JWT implementation\"\n\n### 4. Knowledge Graph Memory\n**Purpose:** Persistent memory with relationship mapping  \n**When to use:**\n- Building complex systems with interconnected components\n- Maintaining relationships between different parts of your codebase\n- Creating a knowledge base of project decisions and rationale\n\n**Analogy:** Like a mind map that remembers not just information, but how everything connects - similar to how your brain links related concepts.\n\n**Example:**\n```bash\n# Store related concepts\nkg-memory add \"AuthService\" --relates-to \"UserModel,JWTHandler\"\nkg-memory add \"Design Decision: Bun over Node\" --reason \"3x faster cold starts\"\n\n# Query relationships\nkg-memory query \"What depends on AuthService?\"\n```\n\n### 5. Magic UI MCP\n**Purpose:** UI component generation and manipulation  \n**When to use:**\n- Rapidly prototyping UI components\n- Generating TypeScript-safe component code\n- Creating modern, industry-standard UI patterns\n\n**Features:**\n- Generates TypeScript components by default\n- Uses modern patterns (hooks, composition)\n- Follows current accessibility standards\n\n## Best Practices\n\n### 1. Start with the Big Picture\nAlways use Task Master first to map out your project structure. This aligns with your preference for understanding the whole picture before diving into details.\n\n### 2. Use Exa for Standards\nBefore implementing any solution, query Exa for current best practices:\n```bash\nexa search \"TypeScript monorepo setup 2024 best practices\"\n```\n\n### 3. Maintain Context\nUse Context7 to save important implementation states:\n```bash\n# Before major changes\ncontext7 checkpoint \"pre-refactor\"\n\n# After completing a feature\ncontext7 save \"auth-complete\" --files \"src/auth/**/*\"\n```\n\n### 4. Build Your Knowledge Graph\nDocument decisions and relationships:\n```bash\nkg-memory add \"Chose Bun\" --reason \"Better TypeScript support, faster runtime\"\nkg-memory link \"Bun\" --to \"Performance,DevExperience\"\n```\n\n## Workflow Example\n\nHere's a typical workflow combining all MCP servers:\n\n```bash\n# 1. Start with project overview\ntask-master init \"Modern SaaS Platform\"\n\n# 2. Research best practices\nexa search \"SaaS architecture patterns 2024 TypeScript\"\n\n# 3. Setup GitHub repository\ngithub create-repo \"saas-platform\" --private\ngithub init --add-gitignore \"node,macos,windows\"\n\n# 4. Create project structure\nfilesystem mkdir \"./frontend/src/components\" \"./backend/src/services\" \"./shared/types\"\n\n# 5. Create high-level tasks\ntask-master add-task \"Setup monorepo with Bun\"\ntask-master add-task \"Implement auth system\"\ntask-master add-task \"Setup PostgreSQL schema\"\n\n# 6. Save initial context\ncontext7 init --project \"saas-platform\"\n\n# 7. Design database schema\npostgres create-migration \"initial-schema\"\n\n# 8. Generate TypeScript types from schema\nfilesystem generate-types --from-db --output \"./shared/types/db.ts\"\n\n# 9. Create API endpoints\nfetch define-endpoint \"POST /api/auth/login\" --response-type \"LoginResponse\"\n\n# 10. Generate UI components\nmagic-ui create \"LoginForm\" --typescript --modern\n\n# 11. Write E2E tests\npuppeteer create-test \"auth-flow\" --record\n\n# 12. Document decisions\nkg-memory add \"Architecture: Monorepo\" --relates-to \"Bun,Turborepo\"\nkg-memory add \"Database: PostgreSQL\" --reason \"ACID compliance, JSON support\"\n\n# 13. Create PR for review\ngithub create-pr --title \"Initial project setup\" --reviewers \"team\"\n```\n\n## Complete Development Workflow\n\n### Starting a New Feature\n\n1. **Plan with Task Master** (Big Picture)\n```bash\ntask-master create-feature \"User Dashboard\"\ntask-master add-subtask \"Design database schema\"\ntask-master add-subtask \"Create API endpoints\"  \ntask-master add-subtask \"Build UI components\"\ntask-master add-subtask \"Write tests\"\n```\n\n2. **Research Current Standards** (Stay Modern)\n```bash\nexa search \"dashboard UX patterns 2024\"\nexa search \"TypeScript dashboard components best practices\"\n```\n\n3. **Create Feature Branch**\n```bash\ngithub create-branch \"feature/user-dashboard\"\ncontext7 checkpoint \"pre-dashboard\"\n```\n\n4. **Database Development**\n```bash\n# Design schema\npostgres create-table \"dashboard_widgets\" \\\n  \"id SERIAL PRIMARY KEY\" \\\n  \"user_id INTEGER REFERENCES users(id)\" \\\n  \"config JSONB NOT NULL\"\n\n# Generate TypeScript types\nfilesystem generate-types --table \"dashboard_widgets\" \\\n  --output \"./shared/types/dashboard.ts\"\n```\n\n5. **API Development**\n```bash\n# Create service file\nfilesystem create \"./backend/src/services/DashboardService.ts\"\n\n# Test endpoints\nfetch post \"/api/dashboard/widgets\" \\\n  --body '{\"type\": \"chart\", \"config\": {}}' \\\n  --expect 201\n```\n\n6. **Frontend Development**\n```bash\n# Generate components\nmagic-ui create \"DashboardWidget\" --props \"WidgetProps\"\nmagic-ui create \"WidgetGrid\" --responsive --draggable\n\n# Update imports\nfilesystem update-imports \"./frontend/src/components\"\n```\n\n7. **Testing**\n```bash\n# Unit tests\nbun test\n\n# E2E tests\npuppeteer test \"dashboard-interactions\" \\\n  --steps \"login,navigate-dashboard,add-widget,drag-widget\"\n\n# Visual regression\npuppeteer screenshot \"./frontend/dashboard\" \\\n  --viewports \"mobile,tablet,desktop\"\n```\n\n8. **Documentation & Memory**\n```bash\n# Document the implementation\nkg-memory add \"Dashboard Architecture\" \\\n  --details \"Widget-based, drag-and-drop, responsive grid\"\n  \nkg-memory link \"DashboardWidget\" \\\n  --uses \"React DnD,Tailwind,TypeScript\"\n```\n\n9. **Code Review**\n```bash\n# Commit changes\ngithub commit -m \"feat: Add user dashboard with draggable widgets\"\n\n# Create PR\ngithub create-pr \\\n  --title \"Feature: User Dashboard\" \\\n  --description \"Implements widget-based dashboard with drag-and-drop\" \\\n  --reviewers \"senior-dev\"\n```\n\n## Server Synergy Patterns\n\n### Pattern 1: Type-Safe Full Stack\n```bash\n# Database → Types → API → Frontend\npostgres create-table → filesystem generate-types → fetch define-endpoints → magic-ui create-components\n```\n\n### Pattern 2: Test-Driven Development\n```bash\n# Write test → Implement → Refactor\npuppeteer write-test → filesystem implement → context7 save → filesystem refactor\n```\n\n### Pattern 3: Research-Driven Architecture\n```bash\n# Research → Design → Document → Implement\nexa search → task-master plan → kg-memory document → filesystem implement\n```\n\n## Troubleshooting\n\n### MCP Server Not Responding\n```bash\n# Check if server is running\nps aux | grep mcp\n\n# Restart specific server\nbunx @modelcontextprotocol/server-filesystem restart\nbunx @context7/mcp-server restart\n```\n\n### Database Connection Issues\n```bash\n# Test PostgreSQL connection\npostgres test-connection\n\n# Check DATABASE_URL format\necho $DATABASE_URL  # Should be: postgresql://user:pass@host:port/db\n```\n\n### GitHub Authentication\n```bash\n# Verify token permissions\ngithub test-auth\n\n# Token should have: repo, workflow, read:org permissions\n```\n\n### Bun vs NPM Issues\nIf you accidentally use npm:\n```bash\n# Clean npm artifacts\nrm -rf node_modules package-lock.json\n\n# Reinstall with Bun\nbun install\n```\n\n## Environment Setup\n\n### Required Environment Variables\n```bash\n# Create .env file\ncat > .env << EOF\n# GitHub Access\nGITHUB_TOKEN=ghp_your_personal_access_token\n\n# Database\nDATABASE_URL=postgresql://user:password@localhost:5432/myapp\n\n# Exa Search\nEXA_API_KEY=exa_your_api_key\n\n# Optional: Puppeteer\nPUPPETEER_SKIP_CHROMIUM_DOWNLOAD=false\nPUPPETEER_EXECUTABLE_PATH=/path/to/chrome  # If using custom Chrome\nEOF\n```\n\n### Initial Setup Commands\n```bash\n# 1. Install Bun (if not already installed)\ncurl -fsSL https://bun.sh/install | bash\n\n# 2. Install all MCP servers\nbunx @modelcontextprotocol/server-filesystem --help\nbunx @modelcontextprotocol/server-github --help\nbunx @modelcontextprotocol/server-postgres --help\nbunx @modelcontextprotocol/server-puppeteer --help\nbunx @modelcontextprotocol/server-fetch --help\n\n# 3. Verify setup\nclaude-code verify-mcp-setup\n```\n\n## Remember\n- Always prefer `bunx` over `npx`\n- Use MCP servers to enhance productivity, not replace thinking\n- Keep the big picture in mind while leveraging these tools for details\n\n## Quick Reference\n\n### Core Development\n- **filesystem** - File operations across your monorepo\n- **github** - Git and GitHub operations  \n- **postgres** - Database queries and migrations\n- **puppeteer** - Browser automation and E2E testing\n- **fetch** - HTTP requests and API testing\n\n### Advanced Context\n- **context7** - Conversation and code context memory\n- **task-master** - Project planning and task management\n- **exa** - Research modern best practices\n- **knowledge-graph** - Document relationships and decisions\n- **magic-ui** - Generate TypeScript UI components\n\n### Command Shortcuts\n```bash\n# Most common operations\nfs = filesystem\ngh = github  \npg = postgres\npp = puppeteer\nft = fetch\nc7 = context7\ntm = task-master\nkg = knowledge-graph\nui = magic-ui\n```"
+            }
+          }
+        },
+        {
+          "display": "now search the appropriate github repos and documentation sources for those MCP servers, validate that they are properly configured.",
+          "pastedContents": {}
+        },
+        {
+          "display": "/model ",
+          "pastedContents": {}
+        },
+        {
+          "display": "update my .claude.json with the following settings.  I prefer to put in my mcp server info this way\n\n[Pasted text #1 +89 lines]",
+          "pastedContents": {
+            "1": {
+              "id": 1,
+              "type": "text",
+              "content": "{\n  \"mcpServers\": {\n    \"filesystem\": {\n      \"command\": \"bunx\",\n      \"args\": [\n        \"@modelcontextprotocol/server-filesystem\",\n        \"./frontend/src\",\n        \"./backend/src\",\n        \"./shared/types\"\n      ],\n      \"description\": \"Direct filesystem access for reading and writing project files\"\n    },\n    \"github\": {\n      \"command\": \"bunx\",\n      \"args\": [\"-y\", \"@modelcontextprotocol/server-github\"],\n      \"env\": {\n        \"GITHUB_PERSONAL_ACCESS_TOKEN\": \"${GITHUB_TOKEN}\"\n      },\n      \"description\": \"GitHub integration for repository management and collaboration\"\n    },\n    \"postgres\": {\n      \"command\": \"bunx\",\n      \"args\": [\n        \"@modelcontextprotocol/server-postgres\",\n        \"${DATABASE_URL}\"\n      ],\n      \"description\": \"PostgreSQL database operations and queries\"\n    },\n    \"puppeteer\": {\n      \"command\": \"bunx\",\n      \"args\": [\"-y\", \"@modelcontextprotocol/server-puppeteer\"],\n      \"description\": \"Browser automation for testing and web scraping\"\n    },\n    \"fetch\": {\n      \"command\": \"bunx\",\n      \"args\": [\"-y\", \"@modelcontextprotocol/server-fetch\"],\n      \"description\": \"HTTP requests and API interactions\"\n    },\n    \"context7\": {\n      \"command\": \"bunx\",\n      \"args\": [\"@context7/mcp-server\"],\n      \"env\": {},\n      \"description\": \"Context7 MCP Server for enhanced context management\"\n    },\n    \"task-master\": {\n      \"command\": \"bunx\",\n      \"args\": [\"@task-master/mcp-server\"],\n      \"env\": {},\n      \"description\": \"Task Master for project and task management\"\n    },\n    \"exa\": {\n      \"command\": \"bunx\",\n      \"args\": [\"@exa/mcp-server\"],\n      \"env\": {\n        \"EXA_API_KEY\": \"${EXA_API_KEY}\"\n      },\n      \"description\": \"Exa MCP Server for advanced search capabilities\"\n    },\n    \"knowledge-graph-memory\": {\n      \"command\": \"bunx\",\n      \"args\": [\"@knowledge-graph/mcp-server\"],\n      \"env\": {},\n      \"description\": \"Knowledge Graph Memory for persistent context and relationships\"\n    },\n    \"magic-ui\": {\n      \"command\": \"bunx\",\n      \"args\": [\"@magic-ui/mcp-server\"],\n      \"env\": {},\n      \"description\": \"Magic UI MCP for UI component generation and manipulation\"\n    }\n  },\n  \"defaults\": {\n    \"packageManager\": \"bun\",\n    \"commandPrefix\": \"bunx\"\n  },\n  \"hooks\": {\n    \"preInstall\": \"echo 'Using Bun for package management'\",\n    \"postInstall\": \"bun install --frozen-lockfile\"\n  },\n  \"guidance\": {\n    \"preferBun\": true,\n    \"npmCommands\": {\n      \"npm install\": \"bun install\",\n      \"npm run\": \"bun run\",\n      \"npx\": \"bunx\",\n      \"npm init\": \"bun init\",\n      \"npm test\": \"bun test\"\n    }\n  }\n}"
+            }
+          }
+        },
+        {
+          "display": "/upgrade ",
+          "pastedContents": {}
+        },
+        {
+          "display": "update my claude.json with this following guidance.  I want to add mcp servers through the json and guidance on bun\n\n[Pasted text #1 +89 lines]",
+          "pastedContents": {
+            "1": {
+              "id": 1,
+              "type": "text",
+              "content": "{\n  \"mcpServers\": {\n    \"filesystem\": {\n      \"command\": \"bunx\",\n      \"args\": [\n        \"@modelcontextprotocol/server-filesystem\",\n        \"./frontend/src\",\n        \"./backend/src\",\n        \"./shared/types\"\n      ],\n      \"description\": \"Direct filesystem access for reading and writing project files\"\n    },\n    \"github\": {\n      \"command\": \"bunx\",\n      \"args\": [\"-y\", \"@modelcontextprotocol/server-github\"],\n      \"env\": {\n        \"GITHUB_PERSONAL_ACCESS_TOKEN\": \"${GITHUB_TOKEN}\"\n      },\n      \"description\": \"GitHub integration for repository management and collaboration\"\n    },\n    \"postgres\": {\n      \"command\": \"bunx\",\n      \"args\": [\n        \"@modelcontextprotocol/server-postgres\",\n        \"${DATABASE_URL}\"\n      ],\n      \"description\": \"PostgreSQL database operations and queries\"\n    },\n    \"puppeteer\": {\n      \"command\": \"bunx\",\n      \"args\": [\"-y\", \"@modelcontextprotocol/server-puppeteer\"],\n      \"description\": \"Browser automation for testing and web scraping\"\n    },\n    \"fetch\": {\n      \"command\": \"bunx\",\n      \"args\": [\"-y\", \"@modelcontextprotocol/server-fetch\"],\n      \"description\": \"HTTP requests and API interactions\"\n    },\n    \"context7\": {\n      \"command\": \"bunx\",\n      \"args\": [\"@context7/mcp-server\"],\n      \"env\": {},\n      \"description\": \"Context7 MCP Server for enhanced context management\"\n    },\n    \"task-master\": {\n      \"command\": \"bunx\",\n      \"args\": [\"@task-master/mcp-server\"],\n      \"env\": {},\n      \"description\": \"Task Master for project and task management\"\n    },\n    \"exa\": {\n      \"command\": \"bunx\",\n      \"args\": [\"@exa/mcp-server\"],\n      \"env\": {\n        \"EXA_API_KEY\": \"${EXA_API_KEY}\"\n      },\n      \"description\": \"Exa MCP Server for advanced search capabilities\"\n    },\n    \"knowledge-graph-memory\": {\n      \"command\": \"bunx\",\n      \"args\": [\"@knowledge-graph/mcp-server\"],\n      \"env\": {},\n      \"description\": \"Knowledge Graph Memory for persistent context and relationships\"\n    },\n    \"magic-ui\": {\n      \"command\": \"bunx\",\n      \"args\": [\"@magic-ui/mcp-server\"],\n      \"env\": {},\n      \"description\": \"Magic UI MCP for UI component generation and manipulation\"\n    }\n  },\n  \"defaults\": {\n    \"packageManager\": \"bun\",\n    \"commandPrefix\": \"bunx\"\n  },\n  \"hooks\": {\n    \"preInstall\": \"echo 'Using Bun for package management'\",\n    \"postInstall\": \"bun install --frozen-lockfile\"\n  },\n  \"guidance\": {\n    \"preferBun\": true,\n    \"npmCommands\": {\n      \"npm install\": \"bun install\",\n      \"npm run\": \"bun run\",\n      \"npx\": \"bunx\",\n      \"npm init\": \"bun init\",\n      \"npm test\": \"bun test\"\n    }\n  }\n}"
+            }
+          }
+        },
+        {
+          "display": "/mcp ",
+          "pastedContents": {}
+        },
+        {
+          "display": "What is the most recent version of react?",
+          "pastedContents": {}
+        },
+        {
+          "display": "Add something along the lines of, context7 will take priority, only if it fails then you can use search",
+          "pastedContents": {}
+        },
+        {
+          "display": "Create a global rule to use context7 mcp with the following information\n\n[Pasted text #1 +40 lines]",
+          "pastedContents": {
+            "1": {
+              "id": 1,
+              "type": "text",
+              "content": "Claude Settings/Rule: Always-Current Documentation with Context7 MCP\n\n1. Rule Name: Invoke Context7 for Current Documentation and Code Validation\n\n2. Rule Description: This rule governs when and how Claude should utilize the Context7 MCP server to retrieve the latest documentation and code examples for any specified technology. The primary goal is to ensure all generated code and technical responses are accurate, up-to-date, and based on the official, version-specific information.\n\n3. Triggering Conditions:\n\nClaude should automatically invoke the Context7 MCP under the following circumstances:\n\n    Explicit Command: Whenever the user includes the phrase \"use context7\" in the prompt. This is the primary and most direct trigger.\n\n    Implicit Need for Current Information: When the user's prompt involves:\n\n        Generating code for a specific library, framework, or API (e.g., \"Write a Python script using FastAPI to...\").\n\n        Asking questions about the functionality or implementation of a particular version of a library (e.g., \"How has the authentication method in Next.js v14 changed?\").\n\n        Debugging code that may be suffering from version-related errors.\n\n        Comparing different versions of a technology.\n\n4. Action/Execution Flow:\n\nUpon triggering, Claude will execute the following steps:\n\n    Prioritize Context7: For any technical implementation or documentation-related query matching the trigger conditions, Claude will prioritize using Context7 as the primary source of truth over its internal knowledge base.\n\n    Invoke Context7 MCP: Claude will call the Context7 MCP server.\n\n    Contextual Injection: The information retrieved from Context7 will be directly injected into the current context window.\n\n    Synthesize and Respond: Claude will then use this fresh, authoritative context to:\n\n        Generate the requested code.\n\n        Answer the user's question accurately.\n\n        Provide a detailed explanation based on the latest documentation.\n\n        Offer validated code examples."
+            }
+          }
+        },
+        {
+          "display": "Should they be in that location or in the Claude folder?  Why is it in my root folder?",
+          "pastedContents": {}
+        },
+        {
+          "display": "I am connected to the context7 mcp server, where are those settings at?  I dont see a settings or a mcp json",
+          "pastedContents": {}
+        },
+        {
+          "display": "/mcp ",
+          "pastedContents": {}
+        },
+        {
+          "display": "create the global config file for claude",
+          "pastedContents": {}
+        },
+        {
+          "display": "claude mcp add context7 -- bunx -y @upstash/context7-mcp",
+          "pastedContents": {}
+        }
+      ],
+      "mcpContextUris": [],
+      "mcpServers": {
+        "github": {
+          "command": "/Users/alpha/.claude/mcp-env-wrapper.sh",
+          "args": [
+            "bunx",
+            "-y",
+            "@modelcontextprotocol/server-github"
+          ],
+          "env": {
+            "GITHUB_PERSONAL_ACCESS_TOKEN": "your_github_token_here"
+          },
+          "description": "GitHub integration for repository management and collaboration"
+        },
+        "puppeteer": {
+          "command": "bunx",
+          "args": [
+            "-y",
+            "@modelcontextprotocol/server-puppeteer"
+          ],
+          "description": "Browser automation for testing and web scraping"
+        },
+        "context7": {
+          "command": "bunx",
+          "args": [
+            "-y",
+            "@upstash/context7-mcp"
+          ],
+          "env": {},
+          "description": "Context7 MCP Server for enhanced context management"
+        },
+        "task-master": {
+          "command": "bunx",
+          "args": [
+            "-y",
+            "task-master-ai"
+          ],
+          "env": {},
+          "description": "Task Master for project and task management"
+        },
+        "exa": {
+          "command": "/Users/alpha/.claude/mcp-env-wrapper.sh",
+          "args": [
+            "bunx",
+            "-y",
+            "exa-mcp-server"
+          ],
+          "env": {
+            "EXA_API_KEY": "${EXA_API_KEY}"
+          },
+          "description": "Exa MCP Server for advanced search capabilities"
+        },
+        "knowledge-graph-memory": {
+          "command": "bunx",
+          "args": [
+            "-y",
+            "@modelcontextprotocol/server-memory"
+          ],
+          "env": {},
+          "description": "Knowledge Graph Memory for persistent context and relationships"
+        },
+        "magic-ui": {
+          "command": "bunx",
+          "args": [
+            "-y",
+            "@magicuidesign/mcp"
+          ],
+          "env": {},
+          "description": "Magic UI MCP for UI component generation and manipulation"
+        },
+        "playwright": {
+          "command": "bunx",
+          "args": [
+            "-y",
+            "@playwright/mcp"
+          ],
+          "env": {},
+          "description": "Browser automation using Playwright with accessibility tree navigation"
+        },
+        "sequential-thinking": {
+          "command": "bunx",
+          "args": [
+            "-y",
+            "@modelcontextprotocol/server-sequential-thinking"
+          ],
+          "env": {},
+          "description": "Structured problem-solving through sequential thinking processes"
+        },
+        "brave-search": {
+          "command": "bunx",
+          "args": [
+            "-y",
+            "@modelcontextprotocol/server-brave-search"
+          ],
+          "env": {
+            "BRAVE_API_KEY": "${BRAVE_API_KEY}"
+          },
+          "description": "Web and local search using Brave Search API"
+        }
+      },
+      "enabledMcpjsonServers": [],
+      "disabledMcpjsonServers": [],
+      "hasTrustDialogAccepted": false,
+      "projectOnboardingSeenCount": 4,
+      "hasClaudeMdExternalIncludesApproved": false,
+      "hasClaudeMdExternalIncludesWarningShown": false,
+      "lastTotalWebSearchRequests": 0,
+      "hasCompletedProjectOnboarding": true,
+      "lastCost": 0.0003776,
+      "lastAPIDuration": 3861,
+      "lastDuration": 37444,
+      "lastLinesAdded": 0,
+      "lastLinesRemoved": 0,
+      "lastTotalInputTokens": 377,
+      "lastTotalOutputTokens": 19,
+      "lastTotalCacheCreationInputTokens": 0,
+      "lastTotalCacheReadInputTokens": 0,
+      "lastSessionId": "e34497f7-04ef-4670-af84-12bcbd633f62"
+    },
+    "/Users/alpha/workspaces/github.com/zale00/dotfiles": {
+      "allowedTools": [],
+      "history": [
+        {
+          "display": "copy the .zshenv, zshrc, .claude.json, and the CLAUDE folder with the claude.md and mcp-env-wrapper.sh files to this repo and commit/push to github",
+          "pastedContents": {}
+        },
+        {
+          "display": "Can you tell me which of the dotfiles I am using may be not in use?  Anything erroneus?",
+          "pastedContents": {}
+        },
+        {
+          "display": "I want to use this repository as a tool to store all my important .dotfiles for my various configs for terminal, claude, mcp, etc...\n\nSearch my home folder and subfolders for .dotfiles in use that would be relevant for this and copy them here.",
+          "pastedContents": {}
+        }
+      ],
+      "mcpContextUris": [],
+      "mcpServers": {},
+      "enabledMcpjsonServers": [],
+      "disabledMcpjsonServers": [],
+      "hasTrustDialogAccepted": true,
+      "projectOnboardingSeenCount": 2,
+      "hasClaudeMdExternalIncludesApproved": false,
+      "hasClaudeMdExternalIncludesWarningShown": false,
+      "lastTotalWebSearchRequests": 0
+    }
+  },
+  "iterm2SetupInProgress": false,
+  "iterm2BackupPath": "/Users/alpha/Library/Preferences/com.googlecode.iterm2.plist.bak",
+  "shiftEnterKeyBindingInstalled": true,
+  "hasCompletedOnboarding": true,
+  "lastOnboardingVersion": "1.0.43",
+  "subscriptionNoticeCount": 0,
+  "hasAvailableSubscription": false,
+  "cachedChangelog": "# Changelog\n\n## 1.0.43\n\n- Fixed a bug where the theme selector was saving excessively\n\n## 1.0.42\n\n- Added tilde (`~`) expansion support to `/add-dir` command\n\n## 1.0.41\n\n- Hooks: Split Stop hook triggering into Stop and SubagentStop\n- Hooks: Enabled optional timeout configuration for each command\n- Hooks: Added \"hook_event_name\" to hook input\n- Fixed a bug where MCP tools would display twice in tool list\n- New tool parameters JSON for Bash tool in `tool_decision` event\n\n## 1.0.40\n\n- Fixed a bug causing API connection errors with UNABLE_TO_GET_ISSUER_CERT_LOCALLY if `NODE_EXTRA_CA_CERTS` was set\n\n## 1.0.39\n\n- New Active Time metric in OpenTelemetry logging\n\n## 1.0.38\n\n- Released hooks. Special thanks to community input in https://github.com/anthropics/claude-code/issues/712. Docs: https://docs.anthropic.com/en/docs/claude-code/hooks\n\n## 1.0.37\n\n- Remove ability to set `Proxy-Authorization` header via ANTHROPIC_AUTH_TOKEN or apiKeyHelper\n\n## 1.0.36\n\n- Web search now takes today's date into context\n- Fixed a bug where stdio MCP servers were not terminating properly on exit\n\n## 1.0.35\n\n- Added support for MCP OAuth Authorization Server discovery\n\n## 1.0.34\n\n- Fixed a memory leak causing a MaxListenersExceededWarning message to appear\n\n## 1.0.33\n\n- Improved logging functionality with session ID support\n- Added undo functionality (Ctrl+Z and vim 'u' command)\n- Improvements to plan mode\n\n## 1.0.32\n\n- Updated loopback config for litellm\n- Added forceLoginMethod setting to bypass login selection screen\n\n## 1.0.31\n\n- Fixed a bug where ~/.claude.json would get reset when file contained invalid JSON\n\n## 1.0.30\n\n- Custom slash commands: Run bash output, @-mention files, enable thinking with thinking keywords\n- Improved file path autocomplete with filename matching\n- Added timestamps in Ctrl-r mode and fixed Ctrl-c handling\n- Enhanced jq regex support for complex filters with pipes and select\n\n## 1.0.29\n\n- Improved CJK character support in cursor navigation and rendering\n\n## 1.0.28\n\n- Slash commands: Fix selector display during history navigation\n- Resizes images before upload to prevent API size limit errors\n- Added XDG_CONFIG_HOME support to configuration directory\n- Performance optimizations for memory usage\n- New attributes (terminal.type, language) in OpenTelemetry logging\n\n## 1.0.27\n\n- Streamable HTTP MCP servers are now supported\n- Remote MCP servers (SSE and HTTP) now support OAuth\n- MCP resources can now be @-mentioned\n- /resume slash command to switch conversations within Claude Code\n\n## 1.0.25\n\n- Slash commands: moved \"project\" and \"user\" prefixes to descriptions\n- Slash commands: improved reliability for command discovery\n- Improved support for Ghostty\n- Improved web search reliability\n\n## 1.0.24\n\n- Improved /mcp output\n- Fixed a bug where settings arrays got overwritten instead of merged\n\n## 1.0.23\n\n- Released TypeScript SDK: import @anthropic-ai/claude-code to get started\n- Released Python SDK: pip install claude-code-sdk to get started\n\n## 1.0.22\n\n- SDK: Renamed `total_cost` to `total_cost_usd`\n\n## 1.0.21\n\n- Improved editing of files with tab-based indentation\n- Fix for tool_use without matching tool_result errors\n- Fixed a bug where stdio MCP server processes would linger after quitting Claude Code\n\n## 1.0.18\n\n- Added --add-dir CLI argument for specifying additional working directories\n- Added streaming input support without require -p flag\n- Improved startup performance and session storage performance\n- Added CLAUDE_BASH_MAINTAIN_PROJECT_WORKING_DIR environment variable to freeze working directory for bash commands\n- Added detailed MCP server tools display (/mcp)\n- MCP authentication and permission improvements\n- Added auto-reconnection for MCP SSE connections on disconnect\n- Fixed issue where pasted content was lost when dialogs appeared\n\n## 1.0.17\n\n- We now emit messages from sub-tasks in -p mode (look for the parent_tool_use_id property)\n- Fixed crashes when the VS Code diff tool is invoked multiple times quickly\n- MCP server list UI improvements\n- Update Claude Code process title to display \"claude\" instead of \"node\"\n\n## 1.0.11\n\n- Claude Code can now also be used with a Claude Pro subscription\n- Added /upgrade for smoother switching to Claude Max plans\n- Improved UI for authentication from API keys and Bedrock/Vertex/external auth tokens\n- Improved shell configuration error handling\n- Improved todo list handling during compaction\n\n## 1.0.10\n\n- Added markdown table support\n- Improved streaming performance\n\n## 1.0.8\n\n- Fixed Vertex AI region fallback when using CLOUD_ML_REGION\n- Increased default otel interval from 1s -> 5s\n- Fixed edge cases where MCP_TIMEOUT and MCP_TOOL_TIMEOUT weren't being respected\n- Fixed a regression where search tools unnecessarily asked for permissions\n- Added support for triggering thinking non-English languages\n- Improved compacting UI\n\n## 1.0.7\n\n- Renamed /allowed-tools -> /permissions\n- Migrated allowedTools and ignorePatterns from .claude.json -> settings.json\n- Deprecated claude config commands in favor of editing settings.json\n- Fixed a bug where --dangerously-skip-permissions sometimes didn't work in --print mode\n- Improved error handling for /install-github-app\n- Bugfixes, UI polish, and tool reliability improvements\n\n## 1.0.6\n\n- Improved edit reliability for tab-indented files\n- Respect CLAUDE_CONFIG_DIR everywhere\n- Reduced unnecessary tool permission prompts\n- Added support for symlinks in @file typeahead\n- Bugfixes, UI polish, and tool reliability improvements\n\n## 1.0.4\n\n- Fixed a bug where MCP tool errors weren't being parsed correctly\n\n## 1.0.1\n\n- Added `DISABLE_INTERLEAVED_THINKING` to give users the option to opt out of interleaved thinking.\n- Improved model references to show provider-specific names (Sonnet 3.7 for Bedrock, Sonnet 4 for Console)\n- Updated documentation links and OAuth process descriptions\n\n## 1.0.0\n\n- Claude Code is now generally available\n- Introducing Sonnet 4 and Opus 4 models\n\n## 0.2.125\n\n- Breaking change: Bedrock ARN passed to `ANTHROPIC_MODEL` or `ANTHROPIC_SMALL_FAST_MODEL` should no longer contain an escaped slash (specify `/` instead of `%2F`)\n- Removed `DEBUG=true` in favor of `ANTHROPIC_LOG=debug`, to log all requests\n\n## 0.2.117\n\n- Breaking change: --print JSON output now returns nested message objects, for forwards-compatibility as we introduce new metadata fields\n- Introduced settings.cleanupPeriodDays\n- Introduced CLAUDE_CODE_API_KEY_HELPER_TTL_MS env var\n- Introduced --debug mode\n\n## 0.2.108\n\n- You can now send messages to Claude while it works to steer Claude in real-time\n- Introduced BASH_DEFAULT_TIMEOUT_MS and BASH_MAX_TIMEOUT_MS env vars\n- Fixed a bug where thinking was not working in -p mode\n- Fixed a regression in /cost reporting\n- Deprecated MCP wizard interface in favor of other MCP commands\n- Lots of other bugfixes and improvements\n\n## 0.2.107\n\n- CLAUDE.md files can now import other files. Add @path/to/file.md to ./CLAUDE.md to load additional files on launch\n\n## 0.2.106\n\n- MCP SSE server configs can now specify custom headers\n- Fixed a bug where MCP permission prompt didn't always show correctly\n\n## 0.2.105\n\n- Claude can now search the web\n- Moved system & account status to /status\n- Added word movement keybindings for Vim\n- Improved latency for startup, todo tool, and file edits\n\n## 0.2.102\n\n- Improved thinking triggering reliability\n- Improved @mention reliability for images and folders\n- You can now paste multiple large chunks into one prompt\n\n## 0.2.100\n\n- Fixed a crash caused by a stack overflow error\n- Made db storage optional; missing db support disables --continue and --resume\n\n## 0.2.98\n\n- Fixed an issue where auto-compact was running twice\n\n## 0.2.96\n\n- Claude Code can now also be used with a Claude Max subscription (https://claude.ai/upgrade)\n\n## 0.2.93\n\n- Resume conversations from where you left off from with \"claude --continue\" and \"claude --resume\"\n- Claude now has access to a Todo list that helps it stay on track and be more organized\n\n## 0.2.82\n\n- Added support for --disallowedTools\n- Renamed tools for consistency: LSTool -> LS, View -> Read, etc.\n\n## 0.2.75\n\n- Hit Enter to queue up additional messages while Claude is working\n- Drag in or copy/paste image files directly into the prompt\n- @-mention files to directly add them to context\n- Run one-off MCP servers with `claude --mcp-config <path-to-file>`\n- Improved performance for filename auto-complete\n\n## 0.2.74\n\n- Added support for refreshing dynamically generated API keys (via apiKeyHelper), with a 5 minute TTL\n- Task tool can now perform writes and run bash commands\n\n## 0.2.72\n\n- Updated spinner to indicate tokens loaded and tool usage\n\n## 0.2.70\n\n- Network commands like curl are now available for Claude to use\n- Claude can now run multiple web queries in parallel\n- Pressing ESC once immediately interrupts Claude in Auto-accept mode\n\n## 0.2.69\n\n- Fixed UI glitches with improved Select component behavior\n- Enhanced terminal output display with better text truncation logic\n\n## 0.2.67\n\n- Shared project permission rules can be saved in .claude/settings.json\n\n## 0.2.66\n\n- Print mode (-p) now supports streaming output via --output-format=stream-json\n- Fixed issue where pasting could trigger memory or bash mode unexpectedly\n\n## 0.2.63\n\n- Fixed an issue where MCP tools were loaded twice, which caused tool call errors\n\n## 0.2.61\n\n- Navigate menus with vim-style keys (j/k) or bash/emacs shortcuts (Ctrl+n/p) for faster interaction\n- Enhanced image detection for more reliable clipboard paste functionality\n- Fixed an issue where ESC key could crash the conversation history selector\n\n## 0.2.59\n\n- Copy+paste images directly into your prompt\n- Improved progress indicators for bash and fetch tools\n- Bugfixes for non-interactive mode (-p)\n\n## 0.2.54\n\n- Quickly add to Memory by starting your message with '#'\n- Press ctrl+r to see full output for long tool results\n- Added support for MCP SSE transport\n\n## 0.2.53\n\n- New web fetch tool lets Claude view URLs that you paste in\n- Fixed a bug with JPEG detection\n\n## 0.2.50\n\n- New MCP \"project\" scope now allows you to add MCP servers to .mcp.json files and commit them to your repository\n\n## 0.2.49\n\n- Previous MCP server scopes have been renamed: previous \"project\" scope is now \"local\" and \"global\" scope is now \"user\"\n\n## 0.2.47\n\n- Press Tab to auto-complete file and folder names\n- Press Shift + Tab to toggle auto-accept for file edits\n- Automatic conversation compaction for infinite conversation length (toggle with /config)\n\n## 0.2.44\n\n- Ask Claude to make a plan with thinking mode: just say 'think' or 'think harder' or even 'ultrathink'\n\n## 0.2.41\n\n- MCP server startup timeout can now be configured via MCP_TIMEOUT environment variable\n- MCP server startup no longer blocks the app from starting up\n\n## 0.2.37\n\n- New /release-notes command lets you view release notes at any time\n- `claude config add/remove` commands now accept multiple values separated by commas or spaces\n\n## 0.2.36\n\n- Import MCP servers from Claude Desktop with `claude mcp add-from-claude-desktop`\n- Add MCP servers as JSON strings with `claude mcp add-json <n> <json>`\n\n## 0.2.34\n\n- Vim bindings for text input - enable with /vim or /config\n\n## 0.2.32\n\n- Interactive MCP setup wizard: Run \"claude mcp add\" to add MCP servers with a step-by-step interface\n- Fix for some PersistentShell issues\n\n## 0.2.31\n\n- Custom slash commands: Markdown files in .claude/commands/ directories now appear as custom slash commands to insert prompts into your conversation\n- MCP debug mode: Run with --mcp-debug flag to get more information about MCP server errors\n\n## 0.2.30\n\n- Added ANSI color theme for better terminal compatibility\n- Fixed issue where slash command arguments weren't being sent properly\n- (Mac-only) API keys are now stored in macOS Keychain\n\n## 0.2.26\n\n- New /approved-tools command for managing tool permissions\n- Word-level diff display for improved code readability\n- Fuzzy matching for slash commands\n\n## 0.2.21\n\n- Fuzzy matching for /commands\n",
+  "changelogLastFetched": 1751768271348,
+  "fallbackAvailableWarningThreshold": 0.5,
+  "lastReleaseNotesSeen": "1.0.43",
+  "oauthAccount": {
+    "accountUuid": "4f2f29c5-40ca-4a73-bd76-f73e16d4288f",
+    "emailAddress": "earoberts00@gmail.com",
+    "organizationUuid": "f74b664b-1a5c-4181-beaf-c434144bed67",
+    "organizationRole": "admin",
+    "workspaceRole": null,
+    "organizationName": "Eric Roberts"
+  }
+}
